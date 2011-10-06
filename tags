@@ -1,0 +1,183 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AE::RPC::Enc::Sample	example/AnyEvent-RPC-0.05/ex/sample.pl	/^package AE::RPC::Enc::Sample;$/;"	p
+AUTOLOAD	example/AnyEvent-RPC-0.05/inc/Module/Install/Base.pm	/^sub AUTOLOAD {$/;"	s
+AUTOLOAD	example/AnyEvent-RPC-0.05/inc/Module/Install/Base.pm	/^sub AUTOLOAD {}$/;"	s
+AnyEvent::HTTP::Socks	example/AnyEvent-HTTP-Socks-0.04/lib/AnyEvent/HTTP/Socks.pm	/^package AnyEvent::HTTP::Socks;$/;"	p
+AnyEvent::RPC	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC.pm	/^package AnyEvent::RPC;$/;"	p
+AnyEvent::RPC::Enc	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc.pm	/^	AnyEvent::RPC::Enc;$/;"	p
+AnyEvent::RPC::Enc::REST	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc/REST.pm	/^package AnyEvent::RPC::Enc::REST;$/;"	p
+AnyEvent::RPC::Enc::YAML	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc/YAML.pm	/^package AnyEvent::RPC::Enc::YAML;$/;"	p
+AnyEvent::RPC::UA	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/UA.pm	/^	AnyEvent::RPC::UA;$/;"	p
+AutoInstall	example/AnyEvent-RPC-0.05/inc/Module/Install/AutoInstall.pm	/^sub AutoInstall { $_[0] }$/;"	s
+C	example/AnyEvent-RPC-0.05/inc/Module/Install/Win32.pm	/^C:\\WINDOWS\\COMMAND\\), then launch the MS-DOS command line shell, "cd" to$/;"	l
+DESTROY	example/AnyEvent-RPC-0.05/inc/Module/Install/Base.pm	/^sub DESTROY {}$/;"	s
+ERROR	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^ERROR: Can't determine distribution version. Please specify it$/;"	l
+Makefile	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub Makefile { $_[0] }$/;"	s
+Meta	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub Meta              { shift          }$/;"	s
+Meta_ArrayKeys	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub Meta_ArrayKeys    { @array_keys    }$/;"	s
+Meta_BooleanKeys	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub Meta_BooleanKeys  { @boolean_keys  }$/;"	s
+Meta_ResourceKeys	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub Meta_ResourceKeys { @resource_keys }$/;"	s
+Meta_ScalarKeys	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub Meta_ScalarKeys   { @scalar_keys   }$/;"	s
+Meta_TupleKeys	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub Meta_TupleKeys    { @tuple_keys    }$/;"	s
+Module::AutoInstall	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^package Module::AutoInstall;$/;"	p
+Module::Install	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^package Module::Install;$/;"	p
+Module::Install::AutoInstall	example/AnyEvent-RPC-0.05/inc/Module/Install/AutoInstall.pm	/^package Module::Install::AutoInstall;$/;"	p
+Module::Install::Base	example/AnyEvent-RPC-0.05/inc/Module/Install/Base.pm	/^package Module::Install::Base;$/;"	p
+Module::Install::Base::FakeAdmin	example/AnyEvent-RPC-0.05/inc/Module/Install/Base.pm	/^package Module::Install::Base::FakeAdmin;$/;"	p
+Module::Install::Can	example/AnyEvent-RPC-0.05/inc/Module/Install/Can.pm	/^package Module::Install::Can;$/;"	p
+Module::Install::Fetch	example/AnyEvent-RPC-0.05/inc/Module/Install/Fetch.pm	/^package Module::Install::Fetch;$/;"	p
+Module::Install::Include	example/AnyEvent-RPC-0.05/inc/Module/Install/Include.pm	/^package Module::Install::Include;$/;"	p
+Module::Install::Makefile	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^package Module::Install::Makefile;$/;"	p
+Module::Install::Metadata	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^package Module::Install::Metadata;$/;"	p
+Module::Install::Win32	example/AnyEvent-RPC-0.05/inc/Module/Install/Win32.pm	/^package Module::Install::Win32;$/;"	p
+Module::Install::WriteAll	example/AnyEvent-RPC-0.05/inc/Module/Install/WriteAll.pm	/^package Module::Install::WriteAll;$/;"	p
+Write	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub Write {$/;"	s
+WriteAll	example/AnyEvent-RPC-0.05/inc/Module/Install/WriteAll.pm	/^sub WriteAll {$/;"	s
+WriteMyMeta	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub WriteMyMeta {$/;"	s
+_CLASS	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub _CLASS ($) {$/;"	s
+__extract_license	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub __extract_license {$/;"	s
+_accept_default	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _accept_default {$/;"	s
+_caller	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub _caller {$/;"	s
+_can_write	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _can_write {$/;"	s
+_check_lock	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _check_lock {$/;"	s
+_cmp	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub _cmp ($$) {$/;"	s
+_connected_to	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _connected_to {$/;"	s
+_cpanplus_config	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _cpanplus_config {$/;"	s
+_extract_bugtracker	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub _extract_bugtracker {$/;"	s
+_extract_license	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub _extract_license {$/;"	s
+_extract_perl_version	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub _extract_perl_version {$/;"	s
+_has_cpanplus	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _has_cpanplus {$/;"	s
+_init	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _init {$/;"	s
+_install_cpan	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _install_cpan {$/;"	s
+_install_cpanplus	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _install_cpanplus {$/;"	s
+_load	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _load {$/;"	s
+_load	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC.pm	/^sub _load {$/;"	s
+_load_cpan	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _load_cpan {$/;"	s
+_make_args	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _make_args {$/;"	s
+_perl_version	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub _perl_version {$/;"	s
+_postdata	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc.pm	/^sub _postdata {$/;"	s
+_prompt	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _prompt {$/;"	s
+_read	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub _read {$/;"	s
+_readperl	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub _readperl {$/;"	s
+_readpod	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub _readpod {$/;"	s
+_running_under	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _running_under {$/;"	s
+_socks_connect	example/AnyEvent-HTTP-Socks-0.04/lib/AnyEvent/HTTP/Socks.pm	/^sub _socks_connect {$/;"	s
+_socks_handshake	example/AnyEvent-HTTP-Socks-0.04/lib/AnyEvent/HTTP/Socks.pm	/^sub _socks_handshake {$/;"	s
+_socks_prepare_connection	example/AnyEvent-HTTP-Socks-0.04/lib/AnyEvent/HTTP/Socks.pm	/^sub _socks_prepare_connection {$/;"	s
+_top	example/AnyEvent-RPC-0.05/inc/Module/Install/Base.pm	/^sub _top {$/;"	s
+_under_cpan	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _under_cpan {$/;"	s
+_update_to	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _update_to {$/;"	s
+_version	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub _version ($) {$/;"	s
+_version_cmp	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub _version_cmp {$/;"	s
+_wanted_t	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub _wanted_t {$/;"	s
+_write	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub _write {$/;"	s
+_write_mymeta_data	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub _write_mymeta_data {$/;"	s
+abstract_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub abstract_from {$/;"	s
+add_metadata	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub add_metadata {$/;"	s
+admin	example/AnyEvent-RPC-0.05/inc/Module/Install/Base.pm	/^sub admin {$/;"	s
+all_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub all_from {$/;"	s
+async	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/UA.pm	/^sub async { 1 }$/;"	s
+author_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub author_from {$/;"	s
+auto_include	example/AnyEvent-RPC-0.05/inc/Module/Install/Include.pm	/^sub auto_include {$/;"	s
+auto_include_dependent_dists	example/AnyEvent-RPC-0.05/inc/Module/Install/Include.pm	/^sub auto_include_dependent_dists {$/;"	s
+auto_include_deps	example/AnyEvent-RPC-0.05/inc/Module/Install/Include.pm	/^sub auto_include_deps {$/;"	s
+auto_install	example/AnyEvent-RPC-0.05/inc/Module/Install/AutoInstall.pm	/^sub auto_install {$/;"	s
+auto_install_now	example/AnyEvent-RPC-0.05/inc/Module/Install/AutoInstall.pm	/^sub auto_install_now {$/;"	s
+auto_provides	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub auto_provides {$/;"	s
+autoload	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub autoload {$/;"	s
+bugtracker_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub bugtracker_from {$/;"	s
+build_subdirs	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub build_subdirs {$/;"	s
+call	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub call {$/;"	s
+call	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/UA.pm	/^sub call {$/;"	s
+can_cc	example/AnyEvent-RPC-0.05/inc/Module/Install/Can.pm	/^sub can_cc {$/;"	s
+can_run	example/AnyEvent-RPC-0.05/inc/Module/Install/Can.pm	/^sub can_run {$/;"	s
+can_use	example/AnyEvent-RPC-0.05/inc/Module/Install/Can.pm	/^sub can_use {$/;"	s
+check_nmake	example/AnyEvent-RPC-0.05/inc/Module/Install/Win32.pm	/^sub check_nmake {$/;"	s
+clean_files	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub clean_files {$/;"	s
+components	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC.pm	/^sub components {$/;"	s
+decode	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc.pm	/^sub decode {$/;"	s
+decode_response	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc.pm	/^sub decode_response {$/;"	s
+decode_response	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc/REST.pm	/^sub decode_response {$/;"	s
+decode_response	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc/YAML.pm	/^sub decode_response {$/;"	s
+do_install	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub do_install {$/;"	s
+dynamic_config	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub dynamic_config {$/;"	s
+encoder	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC.pm	/^sub encoder { shift->{encoder} }$/;"	s
+feature	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub feature {$/;"	s
+features	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub features {$/;"	s
+find_extensions	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub find_extensions {$/;"	s
+fix_up_makefile	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub fix_up_makefile {$/;"	s
+ftp	example/AnyEvent-RPC-0.05/inc/Module/Install/Win32.pm	/^  ftp:\/\/ftp.microsoft.com\/Softlib\/MSLFILES\/Nmake15.exe$/;"	l
+get_file	example/AnyEvent-RPC-0.05/inc/Module/Install/Fetch.pm	/^sub get_file {$/;"	s
+http	example/AnyEvent-RPC-0.05/inc/Module/Install/Win32.pm	/^  http:\/\/download.microsoft.com\/download\/vc15\/Patch\/1.52\/W95\/EN-US\/Nmake15.exe$/;"	l
+http_get	example/AnyEvent-HTTP-Socks-0.04/lib/AnyEvent/HTTP/Socks.pm	/^sub http_get($@) {$/;"	s
+http_head	example/AnyEvent-HTTP-Socks-0.04/lib/AnyEvent/HTTP/Socks.pm	/^sub http_head($@) {$/;"	s
+http_post	example/AnyEvent-HTTP-Socks-0.04/lib/AnyEvent/HTTP/Socks.pm	/^sub http_post($$@) {$/;"	s
+http_request	example/AnyEvent-HTTP-Socks-0.04/lib/AnyEvent/HTTP/Socks.pm	/^sub http_request($$@) {$/;"	s
+import	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub import {$/;"	s
+import	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub import {$/;"	s
+inc	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub inc {$/;"	s
+include	example/AnyEvent-RPC-0.05/inc/Module/Install/Include.pm	/^sub include {$/;"	s
+include_deps	example/AnyEvent-RPC-0.05/inc/Module/Install/Include.pm	/^sub include_deps {$/;"	s
+init	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC.pm	/^sub init {$/;"	s
+init	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc.pm	/^sub init {$/;"	s
+init	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/UA.pm	/^sub init {$/;"	s
+inject	example/AnyEvent-HTTP-Socks-0.04/lib/AnyEvent/HTTP/Socks.pm	/^sub inject {$/;"	s
+install	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub install {$/;"	s
+install_as_core	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub install_as_core   { $_[0]->installdirs('perl')   }$/;"	s
+install_as_cpan	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub install_as_cpan   { $_[0]->installdirs('site')   }$/;"	s
+install_as_site	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub install_as_site   { $_[0]->installdirs('site')   }$/;"	s
+install_as_vendor	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub install_as_vendor { $_[0]->installdirs('vendor') }$/;"	s
+install_requires	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub install_requires  { shift->build_requires(@_) }$/;"	s
+is_admin	example/AnyEvent-RPC-0.05/inc/Module/Install/Base.pm	/^sub is_admin {$/;"	s
+libs	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub libs {$/;"	s
+license	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub license {$/;"	s
+license_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub license_from {$/;"	s
+load	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub load {$/;"	s
+load_extensions	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub load_extensions {$/;"	s
+main	example/AnyEvent-RPC-0.05/ex/sample.pl	/^package main;$/;"	p
+main	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub main::PREREQ_PM { return {}; }$/;"	s
+makemaker	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub makemaker {$/;"	s
+makemaker_append	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub makemaker_append {$/;"	s
+makemaker_args	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub makemaker_args {$/;"	s
+missing_modules	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub missing_modules {$/;"	s
+name_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub name_from {$/;"	s
+new	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub new {$/;"	s
+new	example/AnyEvent-RPC-0.05/inc/Module/Install/Base.pm	/^sub new {$/;"	s
+new	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC.pm	/^sub new {$/;"	s
+new	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc.pm	/^sub new {$/;"	s
+new	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/UA.pm	/^sub new {$/;"	s
+no_index	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub no_index {$/;"	s
+not	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^not:$/;"	l
+perl_version	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub perl_version {$/;"	s
+perl_version_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub perl_version_from {$/;"	s
+postamble	example/AnyEvent-RPC-0.05/inc/Module/AutoInstall.pm	/^sub postamble {$/;"	s
+postamble	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub postamble {$/;"	s
+preamble	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub preamble {$/;"	s
+preload	example/AnyEvent-RPC-0.05/inc/Module/Install.pm	/^sub preload {$/;"	s
+prompt	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub prompt {$/;"	s
+provides	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub provides {$/;"	s
+read	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub read {$/;"	s
+realclean_files	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub realclean_files {$/;"	s
+req	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC.pm	/^sub req {$/;"	s
+request	example/AnyEvent-RPC-0.05/ex/sample.pl	/^sub request {$/;"	s
+request	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc.pm	/^sub request {$/;"	s
+request	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc/REST.pm	/^sub request {$/;"	s
+request	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC/Enc/YAML.pm	/^sub request {$/;"	s
+requires_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub requires_from {$/;"	s
+resources	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub resources {$/;"	s
+run	example/AnyEvent-RPC-0.05/inc/Module/Install/AutoInstall.pm	/^sub run {$/;"	s
+test_requires	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub test_requires     { shift->build_requires(@_) }$/;"	s
+test_requires_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub test_requires_from {$/;"	s
+tests_recursive	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub tests_recursive {$/;"	s
+ua	example/AnyEvent-RPC-0.05/lib/AnyEvent/RPC.pm	/^sub ua      { shift->{ua} }$/;"	s
+version_from	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub version_from {$/;"	s
+write	example/AnyEvent-RPC-0.05/inc/Module/Install/AutoInstall.pm	/^sub write {$/;"	s
+write	example/AnyEvent-RPC-0.05/inc/Module/Install/Makefile.pm	/^sub write {$/;"	s
+write	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub write {$/;"	s
+write_mymeta_json	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub write_mymeta_json {$/;"	s
+write_mymeta_yaml	example/AnyEvent-RPC-0.05/inc/Module/Install/Metadata.pm	/^sub write_mymeta_yaml {$/;"	s
